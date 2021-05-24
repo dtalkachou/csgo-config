@@ -15,5 +15,3 @@ bind w "+forward;r_cleardecals";
 bind a "+moveleft;r_cleardecals";
 bind s "+back;r_cleardecals";
 bind d "+moveright;r_cleardecals";
-bind t "toggle cl_righthand 0 1";
-bind b +spray_menu;
